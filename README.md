@@ -23,4 +23,11 @@
 <p align="left">❌ Part of the hypothesis about the relationship between the type of company (b2b/b2c) and its eco-index was refuted: there is practically no relationship between them. In addition, b2b companies turned out to be more environmentally friendly</p> 
 
 <h2 align="left">👥 Participants</h2>
-<p align="left">[sinyshapmen](https://github.com/sinyshapmen), [FoxFil](https://github.com/FoxFil), [sh1sha](https://github.com/onl1yw), [UltraGeoPro](https://github.com/Ultrageopro1966), [flexagoon](https://github.com/flexagoon)</p> 
+<p align="left">
+    <a href="https://github.com/sinyshapmen">sinyshapmen</a>, 
+    <a href="https://github.com/FoxFil">FoxFil</a>, 
+    <a href="https://github.com/onl1yw">sh1sha</a>, 
+    <a href="https://github.com/Ultrageopro1966">UltraGeoPro</a>, 
+    <a href="https://github.com/flexagoon">flexagoon</a> and
+    <a href="https://github.com/N3wSk1Y">N3wSk1Y</a>
+</p>
