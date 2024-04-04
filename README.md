@@ -31,3 +31,12 @@
     <a href="https://github.com/flexagoon">flexagoon</a> and
     <a href="https://github.com/N3wSk1Y">N3wSk1Y</a>
 </p>
+
+<h2 align="left">Libraries used</h2>
+<p align="left">1) Pandas (for accesing the dataset)</p> 
+<p align="left">2) Matplotlib (data visualization)</p>
+<p align="left">3) Seaborn (data visualization)</p> 
+<p align="left">4) Numpy (data preprossesing)</p> 
+
+
+
