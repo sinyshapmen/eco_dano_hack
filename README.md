@@ -1,2 +1,2 @@
-# This repo is about our project about ecology
+# eco_dano_hack
 ecology project from Hackaton DANO 
