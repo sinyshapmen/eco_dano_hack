@@ -1,2 +1,2 @@
-# eco_dano_hack
+# Eco_dano_hack
 ecology project from Hackaton DANO 
