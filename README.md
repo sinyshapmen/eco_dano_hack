@@ -1,5 +1,7 @@
 <h1 align="left">🌱 Hackaton DANO ecology project</h1>
-[<img src="https://github.com/chftm/.github/assets/83007290/a2b374e1-e5b5-4d9b-bd15-9837f50203de" width=200px>](https://dano.hse.ru/hackathon_nes_2024)
+<a href="https://dano.hse.ru/hackathon_nes_2024">
+    <img src="https://github.com/chftm/.github/assets/83007290/a2b374e1-e5b5-4d9b-bd15-9837f50203de" width="200px">
+</a>
 
 <h2 align="left">❓ Research question</h2>
 <p align="left">How are firm characteristics interrelated with the involvement of this company in the process of “greening” production?</p>
