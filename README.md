@@ -10,5 +10,14 @@
 <p align="left">The level of concern a business has for the environment depends on its size and the type of interaction it has with its customers:</p>
 <p align="left">❗️ B2c businesses and large companies are more environmentally conscious compared to b2b businesses and small companies.</p> 
 
-<h2 align="left">All other materials are in the repo</h2>
+<h2 align="left">🧑🏻‍🔬 Research steps</h2>
+<p align="left">1) Choose valuable columns</p> 
+<p align="left">2) Preprocess the data</p>
+<p align="left">3) Create a method to evaluate ecological companies</p> 
+<p align="left">4) Find correlations</p> 
+<p align="left">5) Present the results</p> 
 
+<h2 align="left">🏁 Final results</h2>
+<p align="left">✅ Part of the hypothesis about the relationship between company size and its eco-index was confirmed</p> 
+
+<p align="left">❌ Part of the hypothesis about the relationship between the type of company (b2b/b2c) and its eco-index was refuted: there is practically no relationship between them. In addition, b2b companies turned out to be more environmentally friendly</p> 
