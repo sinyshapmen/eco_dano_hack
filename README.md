@@ -21,3 +21,6 @@
 <p align="left">✅ Part of the hypothesis about the relationship between company size and its eco-index was confirmed</p> 
 
 <p align="left">❌ Part of the hypothesis about the relationship between the type of company (b2b/b2c) and its eco-index was refuted: there is practically no relationship between them. In addition, b2b companies turned out to be more environmentally friendly</p> 
+
+<h2 align="left">👥 Participants</h2>
+<p align="left">[sinyshapmen](https://github.com/sinyshapmen), [FoxFil](https://github.com/FoxFil), [sh1sha](https://github.com/onl1yw), [UltraGeoPro](https://github.com/Ultrageopro1966), [flexagoon](https://github.com/flexagoon)</p> 
