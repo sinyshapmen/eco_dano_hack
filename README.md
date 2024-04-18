@@ -22,6 +22,8 @@
 
 <p align="left">❌ Part of the hypothesis about the relationship between the type of company (b2b/b2c) and its eco-index was refuted: there is practically no relationship between them. In addition, b2b companies turned out to be more environmentally friendly</p> 
 
+<p align="left">5th place out of 20 teams</p> 
+
 <h2 align="left">👥 Participants</h2>
 <p align="left">
     <a href="https://github.com/sinyshapmen">sinyshapmen</a>, 
