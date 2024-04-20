@@ -26,12 +26,7 @@
 
 <h2 align="left">👥 Participants</h2>
 <p align="left">
-    <a href="https://github.com/sinyshapmen">sinyshapmen</a>, 
-    <a href="https://github.com/FoxFil">FoxFil</a>, 
-    <a href="https://github.com/onl1yw">sh1sha</a>, 
-    <a href="https://github.com/Ultrageopro1966">UltraGeoPro</a>, 
-    <a href="https://github.com/flexagoon">flexagoon</a> and
-    <a href="https://github.com/N3wSk1Y">N3wSk1Y</a>
+    <a href="https://github.com/Garlic-Toasts">GARLIC TOASTS ©</a> 
 </p>
 
 <h2 align="left">Libraries used</h2>
