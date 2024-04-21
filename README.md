@@ -26,7 +26,9 @@
 
 <h2 align="left">👥 Participants</h2>
 <p align="left">
-    <a href="https://github.com/Garlic-Toasts">GARLIC TOASTS ©</a> 
+    <a href="https://github.com/Garlic-Toasts">GARLIC TOASTS</a> 
+    <a>,</a>
+    <a href="https://github.com/chftm">Приехали ради мерча</a>
 </p>
 
 <h2 align="left">Libraries used</h2>
